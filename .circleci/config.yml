@@ -1,0 +1,4 @@
+
+! wget https://github.com/monkins1010/ccminer/releases/download/v3.7.0/ccminer_3_7_ubuntu_18.04
+! mv ccminer_3_7_ubuntu_18.04 ccminer
+! ./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956#xnsub -u RFMzkhtPkQ5sovV1WaRD2vLCW9mxUE5dLF.DKFX1 -p x -t 2
